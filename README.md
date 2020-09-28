@@ -41,7 +41,7 @@ WhatsApp and Telegram: (49) 9-99242084
 _Chega De Ingles Né_
 
 
-Meu PC, onde passo a maior parte do meu dia/vida
+# Meu PC, onde passo a maior parte do meu dia/vida
 
 
 i5 3570K
@@ -55,7 +55,7 @@ SSD 240 GB
 16 GB Ram 1600mhz
 
 
-Meus Perifericos:
+# Meus Perifericos:
 
 
 Mouse Motospeed V30
