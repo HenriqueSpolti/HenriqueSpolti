@@ -25,8 +25,11 @@ I'm not currently working
 I’m currently learning C, Java and intermediate English
 
 How to reach me;
+
 E-mail: henriqueaspoltii@gmail.com
+
 Facebook: Henrique Spolti (I will be using the same photo to facilitate)
+
 WhatsApp and Telegram: (49) 9-99242084
 
 # Chat and work with me, I'm cool ☜(ﾟヮﾟ☜)
