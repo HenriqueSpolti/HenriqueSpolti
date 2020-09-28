@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 # Welcome to my profile 🙋‍♂️
 
 I'm not currently working
+
 I’m currently learning C, Java and intermediate English
 
-How to reach me;
+
+* How to reach me;
 
 E-mail: henriqueaspoltii@gmail.com
 
@@ -32,4 +34,38 @@ Facebook: Henrique Spolti (I will be using the same photo to facilitate)
 
 WhatsApp and Telegram: (49) 9-99242084
 
+
 # Chat and work with me, I'm cool ☜(ﾟヮﾟ☜)
+
+
+_Chega De Ingles Né_
+
+
+Meu PC, onde passo a maior parte do meu dia/vida
+
+
+i5 3570K
+
+GTX 1050 Ti
+
+HD 500 GB
+
+SSD 240 GB
+
+16 GB Ram 1600mhz
+
+
+Meus Perifericos:
+
+
+Mouse Motospeed V30
+
+HeadSet Razer Kraken Essential
+
+Teclado Logitech G213 Prodigy
+
+MousePad Redragon Capricorn Speed
+
+
+# Obrigado por chegar até aqui
+
