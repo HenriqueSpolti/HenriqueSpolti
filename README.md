@@ -55,17 +55,6 @@ SSD 240 GB
 16 GB Ram 1600mhz
 
 
-# Meus Perifericos:
-
-
-Mouse Motospeed V30
-
-HeadSet Razer Kraken Essential
-
-Teclado Logitech G213 Prodigy
-
-MousePad Redragon Capricorn Speed
-
 
 # Obrigado por chegar até aqui
 
