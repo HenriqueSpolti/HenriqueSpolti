@@ -26,7 +26,7 @@ I'm not currently working
 I’m currently learning C, Java and intermediate English
 
 
-* How to reach me;
+# How to reach me;
 
 E-mail: henriqueaspoltii@gmail.com
 
